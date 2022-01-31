@@ -1,4 +1,4 @@
-<b>Claymorphism is a fresh new concept. The name was coined by Michał Malewicz and the designers are excited to explore the possibilities of this approach to UI design.</b>  
+<h1>Claymorphism is a fresh new concept. The name was coined by Michał Malewicz and the designers are excited to explore the possibilities of this approach to UI design.</h1>  
 
 It features inflated fluffy 3D elements which look charming and introduce a much more vibrant look compared to the usual flat designs.  
 
