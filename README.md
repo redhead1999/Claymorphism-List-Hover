@@ -4,4 +4,4 @@ It features inflated fluffy 3D elements which look charming and introduce a much
 
 What sets claymorphism apart from neumorphism is that it floats above the background instead of being connected to it, eliminating accessibility issues and design restrictions of the latte
 
-https://user-images.githubusercontent.com/56756554/151877202-10b32f85-6eed-40fc-9618-906b642ad9ad.gif
+![Alt Text](https://user-images.githubusercontent.com/56756554/151877202-10b32f85-6eed-40fc-9618-906b642ad9ad.gif)
